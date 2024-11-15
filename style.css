@@ -3,13 +3,16 @@
     color: red;
     font-size: 50px;
     text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
     
 }
 
 .align-center {
-    text-align: center;
+    
     height: 300px;
     width: 300px;
+    text-align: right;
 }
 
 body {
