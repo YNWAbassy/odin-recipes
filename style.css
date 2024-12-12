@@ -1,13 +1,18 @@
+
+
+.titlebox {
+    width: 500px;
+    background-color: darkgray;
+    margin: auto;
+    
+}
+
 .title {
-    color: red;
+    color: white;
     font-size: 50px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 20px;
-    background-color: grey;
-    
-
-    
+    text-decoration: dashed;    
 }
 
 .image {
