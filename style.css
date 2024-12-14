@@ -27,4 +27,16 @@
 .butch {
     background-color: black; 
     color: white;
+    margin: 0;
+    text-align: center;
+}
+
+.butch img {
+    display: block;
+    margin: auto;
+}
+
+.butch h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
 }
