@@ -24,6 +24,11 @@
  text-decoration: none;
 }
 
+img {
+    display: block;
+    margin: auto;
+}
+
 .butch {
     background-color: black; 
     color: white;
